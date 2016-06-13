@@ -1,0 +1,58 @@
+img{
+	width: 30%;
+	height: 30%;
+	border: 2px solid #760A95;
+	padding: 2%;
+	background-color: #D7A4EC;
+	border-radius: 10px;
+	margin-left: 33%;
+	display: block;
+}
+body{
+	/*background-image: url("fondo.PNG");*/
+	background: url(http://static.tumblr.com/eef06de397bc3fd6b6438264a085abf0/0hbzxk2/6c1nfz1uw/tumblr_static_96qx0f1mugw0og8wcwwcw4sw8.png);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+h3{
+	font-family: 'Pacifico', cursive;
+	text-align: center;
+	font-size: 5em;
+	color: #B72C9E;
+}
+input{
+	margin-left: 42%;
+	margin-top: 5%;
+	height: 3em;
+}
+button{
+	width: 6em;
+	height: 4em;
+	background-color: #E661DB;
+	border:none;
+	font-family: 'Indie Flower', cursive;
+	font-size: 1em;
+	display: block;
+	margin-left: 45%;
+	margin-top: 2%;
+}
+span{
+	margin-left: 40%;
+	font-size: 1.5em;
+	font-family: 'Quicksand', sans-serif;
+	color: #AFD7F5;
+}
+
+#contenedorJuego{
+	margin-top: 5%;
+}
+select{
+	background-color: #EBB6E8;
+	width: 10em;
+	color: #AB15F8;
+}
+p{
+	position: absolute;
+	margin-left: 75%;
+	margin-top: -30%;
+}
